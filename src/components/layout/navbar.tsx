@@ -6,10 +6,10 @@ import { useState } from "react";
 const links = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
-  { href: "/services", label: "Services" },
-  { href: "/gallery", label: "Gallery" },
-  { href: "/testimonials", label: "Testimonials" },
-  { href: "/contact", label: "Contact" },
+  { href: "/Service page", label: "Services" },
+  { href: "/Gallery", label: "Gallery" },
+  { href: "/Testimonials", label: "Testimonials" },
+  { href: "/Contact page", label: "Contact" },
 ];
 
 export default function Navbar() {
